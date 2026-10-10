@@ -1,4 +1,4 @@
-# POWERFULL JAVA NATIVE OBFUSCATOR
+# POWERFUL JAVA NATIVE OBFUSCATOR
 **The entire tool is pure Zig (standard library only), targets Zig 0.17.0-dev, and produces a self-contained protected JAR. This README is the single source of truth for the project.**
 
 **A Zig-based Java anti-piracy obfuscator that turns ordinary JARs into heavily protected ones that are extremely difficult to reverse-engineer.
